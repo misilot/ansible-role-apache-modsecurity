@@ -38,7 +38,7 @@ Temporary and permanent data stores:
     SecTmpDir: /tmp/
     SecDataDir: /tmp/
 
-Log settins:
+Log settings:
 
     SecAuditEngine: RelevantOnly
     SecAuditLogParts: ABIJDEFHZ
